@@ -1,8 +1,5 @@
 ## Lab Assignment 3
-# Name: Noor A Alam
-    ID: 2215151014
-    University of Information Technology and Sciences
-    Submission Date: 26 February 2025
+# Name: Noor A Alam </br>ID: 2215151014
 
 ## Tasks Completed
     1) Calculated the t-statistic and p-value for a given dataset.
