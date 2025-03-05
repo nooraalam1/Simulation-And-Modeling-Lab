@@ -1,5 +1,8 @@
 ## Assignment 04
-## What I Learned
+    Name: Noor A Alam
+    ID: 2215151014
+    Section: A1.
+## What I've Learnt
 
     1) Generating normal distributions
     2) Performing t-test
